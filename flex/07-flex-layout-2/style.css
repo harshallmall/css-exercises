@@ -52,17 +52,17 @@ a {
   color: white;
 }
 
-.content {
-  display: flex;
-  flex: 1;
-}
-
 .header {
   display: flex;
   padding: 0 16px;
   align-items: center;
   font-size: 32px;
   font-weight: 900;
+}
+
+.content {
+  display: flex;
+  flex: 1;
 }
 
 .footer {
